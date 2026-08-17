@@ -239,10 +239,10 @@ comb|text1 text2|comb : combining 2 texts
 
 reverse|text|reverse : putting text elements in reversed order
 
-split|text |patter||split : split text into several according to pattern
+split|text |pattern||split : split text into several according to pattern
 
 sub|text |pattern||sub : taking subset of text according to pattern
 
-perm|text |patten||perm : make text permutations according to pattern
+perm|text |pattern||perm : make text permutations according to pattern
 
 ```
